@@ -89,6 +89,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [1007, 1242, 64], "title": "Joe and Cleo's Flower Stall", "icon": "cleo-joe.png" },
 				{ "pos": [894, -524, 64], "title": "Grian's Villager Trading Area", "icon": "grian.png" },
 				{ "pos": [1304, 47, 64], "title": "Tango's Honey Farm", "icon": "tango.png" },
+				{ "pos": [1864, 200, 64], "title": "Tango's copper/mob farm", "icon": "tango.png" },
 
 			],
 		},
